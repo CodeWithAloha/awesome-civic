@@ -14,6 +14,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
 ## Libraries
+*Awesome libraries to help get your civic duty on*
+
+- [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
