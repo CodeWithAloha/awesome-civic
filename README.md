@@ -25,6 +25,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Awesome tools to help get your civic duty on*
 
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+### Mapping 
+
+- [Google Maps](https://developers.google.com/maps/)
+- [LeafletJS](http://leafletjs.com/)
+- [Mapbox](https://www.mapbox.com/)
+- [AmMaps](http://www.amcharts.com/javascript-maps/)
+- [Map Starter](http://www.mapstarter.com/)
+- [Map Shaper](http://www.mapshaper.org/)
+- [Geojson.io](http://geojson.io/#map=2/20.0/0.0)
+- [Google Maps geojson Editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
