@@ -4,8 +4,6 @@
 
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 ## Table of Contents
 - [Awesome Civic](#awesome-civic)
     - [Libraries](#libraries)
@@ -20,6 +18,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Tools
+
+*Awesome tools to help get your civic duty on*
+
+- [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -38,7 +40,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a> by [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
 
-**[:arrow_up: back to top](#table-of-contents)** More awesome
+**[:arrow_up: back to top](#table-of-contents)**
 
 ## License
 
