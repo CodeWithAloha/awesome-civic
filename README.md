@@ -25,6 +25,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Awesome tools to help get your civic duty on*
 
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
+- [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 
 **[:arrow_up: back to top](#table-of-contents)**
