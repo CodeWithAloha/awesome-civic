@@ -26,6 +26,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
 - [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
+- [data-tools](https://github.com/clarkgrubb/data-tools) - Command line tools for data extraction, data manipulation, and file format conversion.
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 - [json2csv](https://github.com/jehiah/json2csv) - Command line tool to convert json to csv.
 
