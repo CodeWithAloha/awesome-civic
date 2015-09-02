@@ -30,7 +30,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [data-tools](https://github.com/clarkgrubb/data-tools) - Command line tools for data extraction, data manipulation, and file format conversion.
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 - [json2csv](https://github.com/jehiah/json2csv) - Command line tool to convert json to csv.
-- [subsample](https://github.com/paulgb/subsample) Command-line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
+- [q](http://harelba.github.io/q/) - Command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+- [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
