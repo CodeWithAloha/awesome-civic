@@ -10,6 +10,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Tools](#tools)
     - [Applications](#applications)
     - [Who to follow](#who-to-follow)
+    - [Resources](#resources)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
@@ -23,7 +24,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ## Tools
 
 *Awesome tools to help get your civic duty on*
-
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
 - [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
 - [datamash](http://www.gnu.org/software/datamash/) - Command line tool to perform simple calculation (e.g. count, sum, min, max, mean, stdev, string coalescing) on input files.
@@ -43,6 +43,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ## Who to follow
 
 **[:arrow_up: back to top](#table-of-contents)**
+
+## Resources
+- [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
+- [Code For America](http://www.codeforamerica.org/brigade/tools/)
+- [S3 Website](https://github.com/laurilehmijoki/s3_website)
+- [Countries in CSV](https://github.com/mledoze/countries)
+
+
 
 # More awesome
 
