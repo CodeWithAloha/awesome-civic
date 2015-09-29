@@ -24,7 +24,17 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Awesome tools to help get your civic duty on*
 
+<<<<<<< HEAD
 - [jq](https://stedolan.github.io/jq/) A lightweight and flexible command-line JSON processor.
+- [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
+- [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
+- [datamash](http://www.gnu.org/software/datamash/) - Command line tool to perform simple calculation (e.g. count, sum, min, max, mean, stdev, string coalescing) on input files.
+- [data-tools](https://github.com/clarkgrubb/data-tools) - Command line tools for data extraction, data manipulation, and file format conversion.
+- [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+- [json2csv](https://github.com/jehiah/json2csv) - Command line tool to convert json to csv.
+- [q](http://harelba.github.io/q/) - Command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
+- [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
+- [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
 
 ### Mapping
 
