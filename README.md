@@ -26,16 +26,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 - [jq](https://stedolan.github.io/jq/) A lightweight and flexible command-line JSON processor.
 
-### Mapping 
+### Mapping
 
 **Implementations**
 
 - [Google Maps](https://developers.google.com/maps/) – The de facto Javascript mapping library.
 - [LeafletJS](http://leafletjs.com/) –  An alternative, open-source Javascript mapping library.
 - [Mapbox](https://www.mapbox.com/) – A themed, cloud-hosted LeafletJS implementation.
-- [AmMaps](http://www.amcharts.com/javascript-maps/) – An SVG-based mapping implementation by the folks that make [AmCharts](http://amcharts.com)
+- [AmMaps](http://www.amcharts.com/javascript-maps/) – An SVG-based mapping implementation by the folks that make [AmCharts](http://amcharts.com).
 
-** Tools **
+**Tools**
 
 - [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
 - [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
