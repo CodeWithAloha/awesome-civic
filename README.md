@@ -33,6 +33,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [q](http://harelba.github.io/q/) - Command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
+- [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it.  There is a [great tutorial](http://rpubs.com/johndharrison/12843).  
 
 **[:arrow_up: back to top](#table-of-contents)**
 
